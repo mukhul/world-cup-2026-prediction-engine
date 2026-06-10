@@ -1,0 +1,33 @@
+match_id,round,home_team,away_team,home_goals,away_goals,winner,penalties,corners,yellow_cards,red_cards
+73,Round of 32,Korea Republic,Bosnia-Herzegovina,1,2,away,False,9,4,0
+74,Round of 32,Brazil,Sweden,2,1,home,False,9,5,0
+75,Round of 32,Germany,Australia,2,1,home,False,9,4,0
+76,Round of 32,Netherlands,Morocco,2,1,home,False,9,4,0
+77,Round of 32,Ecuador,Norway,2,1,home,False,9,4,0
+78,Round of 32,France,Japan,2,1,home,False,9,5,0
+79,Round of 32,Mexico,Ivory Coast,1,2,away,False,9,4,0
+80,Round of 32,England,Algeria,2,1,home,False,10,5,0
+81,Round of 32,Belgium,Czechia,2,1,home,False,9,4,0
+82,Round of 32,Turkey,Canada,2,1,home,False,9,4,0
+83,Round of 32,Colombia,Croatia,2,1,home,False,9,4,0
+84,Round of 32,Spain,Austria,2,2,home,True,9,4,0
+85,Round of 32,Switzerland,IR Iran,1,1,home,True,9,4,0
+86,Round of 32,United States,Egypt,2,1,home,False,9,4,0
+87,Round of 32,Argentina,Uruguay,2,1,home,False,9,4,0
+88,Round of 32,Portugal,Senegal,2,3,away,False,9,5,0
+89,Round of 16,Bosnia-Herzegovina,Germany,1,2,away,False,9,5,0
+90,Round of 16,Brazil,Ecuador,2,1,home,False,10,5,0
+91,Round of 16,Netherlands,France,1,2,away,False,9,4,0
+92,Round of 16,Ivory Coast,England,1,2,away,False,10,5,0
+93,Round of 16,Colombia,Spain,1,2,away,False,9,4,0
+94,Round of 16,Belgium,Turkey,2,1,home,False,9,5,0
+95,Round of 16,United States,Senegal,1,2,away,False,9,4,0
+96,Round of 16,Switzerland,Argentina,2,2,away,True,9,4,0
+97,Quarter-final,Germany,Brazil,1,2,away,False,9,4,0
+98,Quarter-final,Spain,Belgium,2,1,home,False,9,4,0
+99,Quarter-final,France,England,3,2,home,False,9,4,0
+100,Quarter-final,Senegal,Argentina,1,2,away,False,9,4,0
+101,Semi-final,Brazil,Spain,1,1,home,True,9,4,0
+102,Semi-final,France,Argentina,1,1,home,True,9,4,0
+103,Third-place playoff,Spain,Argentina,2,1,home,False,9,4,0
+104,Final,Brazil,France,1,1,home,True,9,4,0
